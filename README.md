@@ -1,1 +1,1 @@
-# NJP
+# Projekt na przedmiot NJP

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Daty ważności</string>
+    <string name="action_settings">Ustawienia</string>
+
+    <!-- Strings used in fragment_add_product -->
+    <string name="button_add">Dodaj</string>
+    <string name="label_product_name">Nazwa produktu</string>
+    <string name="edittext_product_name">produkt</string>
+    <string name="label_date">Data (DD.MM.RRR)</string>
+
+    <string name="list_fragment_label">Lista produktów</string>
+    <string name="add_fragment_label">Dodawanie produktu</string>
+    <string name="photo_fragment_label">Dodawanie zdjęcia daty</string>
+    <string name="settings_fragment_label">Ustawienia</string>
+
+
+    <string name="database_name">ex_database</string>
+</resources>
